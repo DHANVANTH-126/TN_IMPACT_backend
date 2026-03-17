@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.pnpm
+.pnpm-lock.yaml
+.yarn
+.yarn-cache/
+.yarnrc.yml
+.yarnrc
+.npm/
+.nyc_output/
+.coverage/
+coverage/
+build/
+dist/
+*.log
+*.pid
+*.seed
+*.lock
+.env*
+!.env.example   
